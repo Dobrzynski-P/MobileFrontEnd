@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dorab/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_catering_owned.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_congratulations.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_contact.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_kontakt.xml" value="0.33" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_logging.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_logowanie.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_main.xml" value="0.3061594202898551" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_main_brawo.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_menu.xml" value="0.3161231884057971" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_moje_konto.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_moje_konto2.xml" value="0.33" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_my_account.xml" value="0.3625" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_order_address.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_orders.xml" value="0.2813299232736573" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_posiadane_kateringi.xml" value="0.3161231884057971" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_registration.xml" value="0.3365036231884058" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_rejestracja.xml" value="0.30978260869565216" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_summary.xml" value="0.3365036231884058" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/activity_zamowienie.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/content_order_address.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/fragment_first.xml" value="0.22" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/fragment_second.xml" value="0.22" />
+        <entry key="..\:/Users/jakub/MobileFrontEnd/MobileFrontEndApp/app/src/main/res/layout/popup_menu.xml" value="0.3161231884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

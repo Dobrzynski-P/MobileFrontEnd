@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363720677135",
+    "project_id": "knoweat-db8f7",
+    "storage_bucket": "knoweat-db8f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363720677135:android:fd15647e44c84b62ff907a",
+        "android_client_info": {
+          "package_name": "com.example.mobilefrontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363720677135-l7979scc2mi9cs49slas0qrkv5c472ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyM3jhy05gYhy3KZ_EM9EEdg-7TK-6eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363720677135-l7979scc2mi9cs49slas0qrkv5c472ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
